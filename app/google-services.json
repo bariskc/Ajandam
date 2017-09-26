@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620088654752",
+    "firebase_url": "https://ajanda-8958f.firebaseio.com",
+    "project_id": "ajanda-8958f",
+    "storage_bucket": "ajanda-8958f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620088654752:android:2372c06663638500",
+        "android_client_info": {
+          "package_name": "com.ajanda.bariskoc.ajanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620088654752-b995et6rpclvc8k6afc7jjguo69b4qdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajanda.bariskoc.ajanda",
+            "certificate_hash": "9170ebfbd3db2634f2f1077046f506b148ded1a6"
+          }
+        },
+        {
+          "client_id": "620088654752-nch66v7sj2431ate9gmphkmsab03bcrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRNMsYdo6yP-9yRsrg0ASu1XnfnngSHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620088654752-nch66v7sj2431ate9gmphkmsab03bcrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
