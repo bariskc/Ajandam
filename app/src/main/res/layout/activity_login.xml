@@ -6,7 +6,20 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:gravity="center"
 android:orientation="vertical"
-android:padding="50dp" tools:context="com.ajanda.bariskoc.ajanda.tool.LoginActivity">
+android:padding="50dp" tools:context="com.ajanda.bariskoc.ajanda.LoginActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.50"
+        android:src="@drawable/ic_launcher" android:layout_marginBottom="20dp" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur."
+        android:layout_marginBottom="20dp"/>
 
 <com.google.android.gms.common.SignInButton
     android:id="@+id/login_btnSing"
